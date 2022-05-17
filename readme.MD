@@ -8,7 +8,7 @@ I'm currently developing a food order application (Point of Sale) and i needed t
 </p>
 
 This project was made using:
-- SQL Database Postgresand
+- SQL Database Postgres
 - Node
 - Express
 </br>
