@@ -11,16 +11,17 @@ This project was made using:
 - SQL Database Postgresand
 - Node
 - Express
+</br>
 
-
-##### ROUTES
+### ROUTES
 
 [Category]
-
+</br>
 - /categories/post
 - /categories/getAll
 - /categories/delete/:id
 - /categories/update/:id
+</br>
 
 [Video]
 
