@@ -12,11 +12,9 @@ This project was made using:
 - Node
 - Express
 
-</br>
-</br>
 
 ##### ROUTES
-</br>
+
 [Category]
 
 - /categories/post
